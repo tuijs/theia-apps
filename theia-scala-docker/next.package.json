@@ -96,7 +96,7 @@
         "vscode-java-test": "https://github.com/microsoft/vscode-java-test/releases/download/0.22.0/vscjava.vscode-java-test-0.22.0.vsix",
         "vscode-java-dependency-viewer": "https://github.com/microsoft/vscode-java-dependency/releases/download/0.6.0/vscode-java-dependency-0.6.0.vsix",
         "vscode-scala-syntax": "https://github.com/scala/vscode-scala-syntax/releases/download/0.3.9/scala-lang.scala-0.3.9.vsix",
-        "metals-vscode": "https://github.com/scalameta/metals-vscode/releases/download/v1.8.6/scalameta.metals-1.8.6.vsix"
+        "metals-vscode": "https://github.com/scalameta/metals-vscode/releases/download/v1.9.0/scalameta.metals-1.9.0.vsix"
     },
     "resolutions": {
         "vscode-json-languageserver": "1.2.2",
